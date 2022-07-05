@@ -1,113 +1,129 @@
-html, body {
-	font-size: 20px;
-	font-family: 'Atlas Grotesk';
-	font-weight: 300;
-	margin: 0;
-	background-color: #e5e5e5;
+html,
+body {
+    font-size: 20px;
+    font-family: 'Atlas Grotesk';
+    font-weight: 300;
+    margin: 0;
+    /* background-color: #e5e5e5; */
+    background-color: #fff;
 }
 
 header {
-	margin: 2rem auto 0 auto;
-	text-align: center;
+    margin: 2rem auto 0 auto;
+    text-align: center;
 }
 
 header h1 {
-	margin: 1rem;
+    margin: 1rem;
 }
 
 figure {
-	margin: 0 0 3rem 0;
+    margin: 0 0 3rem 0;
 }
 
 figcaption {
-	font-size: 50%;
+    font-size: 50%;
 }
 
 figcaption a {
-	color: #333;
+    color: #333;
 }
 
 #brand {
-	width: 3rem;
+    width: 3rem;
 }
 
 main {
-	padding: 0 1.5rem;
+    padding: 0 1.5rem;
 }
 
 .item {
-	margin: 3rem auto 5rem auto;
-	text-align: center;
+    margin: 3rem auto 5rem auto;
+    text-align: center;
 }
 
 .item img {
-	width: 100%;
-	display: block;
-	margin: auto;
+    width: 100%;
+    display: block;
+    margin: auto;
 }
 
 .item h2 {
-	margin-bottom: 0;
+    margin-bottom: 0;
 }
 
 .item p {
-	margin: 1rem 0 2rem 0;
+    margin: 1rem 0 2rem 0;
 }
 
 footer {
-	text-align: center;
-	margin: 4rem auto 2rem auto;
-	font-size: 50%;
+    text-align: center;
+    margin: 4rem auto 2rem auto;
+    font-size: 50%;
 }
 
 footer .download {
-	margin-bottom: 6rem;
+    margin-bottom: 6rem;
 }
 
 footer ul {
-	display: inline;
-	list-style: none;
+    display: inline;
+    list-style: none;
 }
 
 footer li {
-	display: inline;
+    display: inline;
 }
 
 footer li:after {
-	content: ", ";
+    content: ", ";
 }
 
 .app-btn {
-	height: 48px;
+    height: 48px;
 }
+
+#copyright {
+    margin-top: 1rem;
+}
+
 
 /* Small devices (landscape phones, 576px and up) */
+
 @media (min-width: 576px) {
-	html, body {
-		font-size: 22px;
-	}
+    html,
+    body {
+        font-size: 22px;
+    }
 }
+
 
 /* Medium devices (tablets, 768px and up) */
+
 @media (min-width: 768px) {
-	.item, footer {
-		max-width: 640px;
-	}
-
-	.item img {
-		width: 420px;
-	}
-
-	.item .item p {
-		margin: 2rem;
-	}
+    .item,
+    footer {
+        max-width: 640px;
+    }
+    .item img {
+        width: 420px;
+    }
+    .item .item p {
+        margin: 2rem;
+    }
 }
 
+
 /* Large devices (desktops, 992px and up) */
+
 @media (min-width: 992px) {}
 
+
 /* X-Large devices (large desktops, 1200px and up) */
+
 @media (min-width: 1200px) {}
 
+
 /* XX-Large devices (larger desktops, 1400px and up) */
+
 @media (min-width: 1400px) {}
