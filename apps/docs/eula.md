@@ -64,6 +64,8 @@ Questions, complaints or claims with respect to the Software should be directed 
 
 Bitmark Inc.  
 1F No.489-1, Chongyang Rd.  
-Nangang Taipei Taiwan 115. 
-+886 2-26515982. 
-[support@bitmark.com](mailto:support@bitmark.com)
+Nangang Taipei Taiwan 115  
++886 2-26515982  
+[support@bitmark.com](mailto:support@bitmark.com)  
+
+
