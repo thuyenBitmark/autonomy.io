@@ -124,12 +124,9 @@ Procedure to Supply a Counter-Notice. If the content provider or user believes t
 
 Please contact Bitmark's Designated Agent to Receive Notification of Claimed Infringement at the following address:
 
-Copyright Agent
+Copyright Agent  
+Bitmark Inc.  
+1F No.489-1, Chongyang Rd.  
+Nangang Dist., Taipei City 115, Taiwan  
+[support@bitmark.com](mailto:support@bitmark.com)  
 
-Bitmark Inc.
-
-1F No.489-1, Chongyang Rd.
-
-Nangang Dist., Taipei City 115, Taiwan
-
-[support@bitmark.com](mailto:support@bitmark.com)
