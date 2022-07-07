@@ -69,8 +69,12 @@
         font-size: 50%;
     }
     
-    footer .download {
+    .download {
         margin-bottom: 6rem;
+    }
+    
+    .open-source {
+        font-size: 80%;
     }
     
     footer ul {
@@ -102,6 +106,9 @@
         }
         .item {
             margin: 2rem auto 5rem auto;
+        }
+        .open-source {
+            padding: 0 2rem;
         }
     }
     /* Medium devices (tablets, 768px and up) */
